@@ -1,6 +1,6 @@
 /* package.js
  * license: NCSA
- * copyright: Jordipujol @ Senko's Pub
+ * copyright: Revingly @ Senko's Pub
  * website: https://www.guilded.gg/senkospub
  * authors:
  * - Jordipujol
